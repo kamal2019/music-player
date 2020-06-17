@@ -10,7 +10,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song titles
-const songs = ['hey', 'summer', 'ukulele'];
+const songs = ['hey', 'summer', 'ukulele','ye aaina','kho na du','rula k gaya','shikwa nahi','tu itni','tum chale gaye'];
 
 // Keep track of song
 let songIndex = 2;
